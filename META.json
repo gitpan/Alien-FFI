@@ -21,6 +21,7 @@
       },
       "configure" : {
          "requires" : {
+            "Alien::Base" : "0.005",
             "Module::Build" : "0.28"
          }
       },
@@ -49,6 +50,6 @@
          "web" : "https://github.com/plicease/Alien-FFI"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 
